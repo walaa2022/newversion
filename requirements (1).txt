@@ -1,0 +1,7 @@
+#torch
+scipy
+ftfy
+#transformers
+emoji-country-flag
+#git+https://github.com/LambdaLabsML/lambda-diffusers.git#egg=lambda-diffusers
+git+https://github.com/openai/whisper.git
