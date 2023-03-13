@@ -1,4 +1,4 @@
-pip install gradio
+
 import gradio as gr
 #import torch
 #import whisper
